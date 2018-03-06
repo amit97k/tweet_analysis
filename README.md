@@ -9,4 +9,4 @@ Pandas
 
 ### Installation
 Download python and install it
-Install pandas: pip install pandas
+Install pandas command run on cmd: pip install pandas 
